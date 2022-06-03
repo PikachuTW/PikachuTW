@@ -21,7 +21,7 @@
 ### 📊 Github stats
 [![](https://github-readme-streak-stats.herokuapp.com/?user=pikachutw&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/PikachuTW)
 
-### 🔒 Private Project
+### 🔒 Private Projects
 
 * Tails Bot
 * Tails SUS
