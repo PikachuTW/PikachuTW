@@ -12,7 +12,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 ### 📘 My projects
@@ -21,3 +20,9 @@
   
 ### 📊 Github stats
 [![](https://github-readme-streak-stats.herokuapp.com/?user=pikachutw&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/PikachuTW)
+
+### 🔒 Private Project
+
+* Tails Bot
+* Tails SUS
+* Frog Music
