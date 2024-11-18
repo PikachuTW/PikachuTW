@@ -13,8 +13,6 @@ I'm a Computer Science student at National Yang Ming Chiao Tung University (NYCU
 
 I primarily work on Node.js projects, where I have the most expertise and hands-on experience.
 
-## 📚 Learning Journey
-
 While focusing on my university studies, I'm also passionate about expanding my programming horizons through self-study of modern languages like Javascript, Rust, and Golang.
 
 ## 🚀 Projects
