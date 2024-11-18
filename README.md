@@ -15,7 +15,7 @@ I primarily work on Node.js projects, where I have the most expertise and hands-
 
 ## 📚 Learning Journey
 
-While focusing on my university studies, I'm also passionate about expanding my programming horizons through self-study of modern languages like Rust and Golang.
+While focusing on my university studies, I'm also passionate about expanding my programming horizons through self-study of modern languages like Javascript, Rust, and Golang.
 
 ## 🚀 Projects
 
