@@ -5,8 +5,8 @@ I'm a Computer Science student at National Yang Ming Chiao Tung University (NYCU
 ## 💻 Technical Skills
 
 - **Expert in:** Javascript (Node.js)
-- **Currently Learning:** C (as part of university curriculum)
-- **Also Familiar With:** Python, C++
+- **Currently Learning:** C++ (as part of university curriculum)
+- **Also Familiar With:** C, Python
 - **Self-Learning:** Rust, Golang
 
 ## 🔨 Main Focus
