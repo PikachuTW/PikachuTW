@@ -2,16 +2,21 @@
 
 I'm a Computer Science student at National Yang Ming Chiao Tung University (NYCU) (formerly known as NCTU), Taiwan.
 
+## Experiences
+
+- Teaching Assistant, WWW team, IT Center, Department of Computer Science, National Yang Ming Chiao Tung University (2025-)
+- Meichu Hackathon 2025 - Development Department Member
+
 ## 💻 Technical Skills
 
-- **Expert in:** Javascript (Node.js)
-- **Currently Learning:** C++ (as part of university curriculum)
-- **Also Familiar With:** C, Python
-- **Self-Learning:** Rust, Golang
+- **Expert in:** Javascript/Typescript (Node.js)
+- **Currently Learning:** Golang (as part of university curriculum)
+- **Also Familiar With:** C, C++, Python
+- **Self-Learning:** Rust
 
 ## 🔨 Main Focus
 
-I primarily work on Node.js projects, where I have the most expertise and hands-on experience.
+I primarily work on Node.js/Bun runtime projects, where I have the most expertise and hands-on experience.
 
 While focusing on my university studies, I'm also passionate about expanding my programming horizons through self-study of modern languages like Javascript, Rust, and Golang.
 
