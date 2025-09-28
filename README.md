@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Computer Science student at National Yang Ming Chiao Tung University (NYCU) (formerly known as NCTU), Taiwan.
+I'm a second-year Computer Science student at National Yang Ming Chiao Tung University (NYCU) (formerly known as NCTU), Taiwan.
 
 ## Experiences
 
