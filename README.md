@@ -9,7 +9,7 @@ I'm a second-year Computer Science student at National Yang Ming Chiao Tung Univ
 
 ## 💻 Technical Skills
 
-- **Expert in:** Javascript/Typescript (Node.js)
+- **Pretty Good at:** Javascript/Typescript (Node.js)
 - **Currently Learning:** Golang (as part of university curriculum)
 - **Also Familiar With:** C, C++, Python
 - **Self-Learning:** Rust
