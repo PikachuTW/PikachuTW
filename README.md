@@ -4,7 +4,7 @@ I'm a second-year Computer Science student at National Yang Ming Chiao Tung Univ
 
 ## Experiences
 
-- Teaching Assistant, WWW team, IT Center, Department of Computer Science, National Yang Ming Chiao Tung University (2025-)
+- Teaching Assistant, WWW team, IT Center, Department of Computer Science, National Yang Ming Chiao Tung University (2025 - Now)
 - Meichu Hackathon 2025 - Development Department Member
 
 ## 💻 Technical Skills
